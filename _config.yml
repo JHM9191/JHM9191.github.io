@@ -30,7 +30,7 @@ title: JHM9191                          # the main title
 
 tagline: My programming-life blog.   # it will display as the sub-title
 
-description:                         # used by seo meta and the atom feed
+description: >-                          # used by seo meta and the atom feed
   
 
 # Replace with your domain, e.g. 'https://username.github.io'
