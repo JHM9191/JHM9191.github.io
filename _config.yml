@@ -5,36 +5,20 @@
 # MIT licensed
 
 
-# jekyll-seoLICENSE
-_config.yml
-_data
-_includes
-_layouts
-_posts
-_scripts
-404.html
-assets
-docs
-feed.xml
-Gemfile
-Gemfile.lock
-index.html
-README.md
-robots.txt
-sitemap.xml
-tabs
-tools-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: JHM9191                          # the main title
+title: Chirpy                          # the main title
 
-tagline: My programming-life blog.   # it will display as the sub-title
+tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
-description: >-                          # used by seo meta and the atom feed
-  
+description: >-                        # used by seo meta and the atom feed
+  A minimal, portfolio, sidebar,
+  bootstrap Jekyll theme with responsive web design
+  and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: https://JHM9191.github.io 
+url: 'https://JHM9191.github.io'
 
 author: JHM9191                  # change to your full name
 
@@ -47,12 +31,12 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: johyunmin                  # it will shows as the copyright owner in Footer
-  email: hm.jo.9191@gmail.com             # change to your email address
+  name: your_full_name                  # it will shows as the copyright owner in Footer
+  email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/JHM9191       # change to your github homepage
+    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -65,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Seoul 
+timezone: Asia/Shanghai
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -92,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual 
+theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
 toc: true
