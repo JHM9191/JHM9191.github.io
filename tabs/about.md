@@ -1,5 +1,5 @@
 ---
-title: About
+title: About JHM9191
 
 # The About page
 # v2.0
@@ -8,7 +8,6 @@ title: About
 # MIT License
 ---
 
-# Resume
 
 저의 블로그에 오신 것을 환영합니다. 
 
@@ -46,7 +45,7 @@ Its a **living** digital space where I've gathered my work, ideas, hobbies, go
 
 - 🧘‍♀️ 성격/Work 스타일
 
-    ![Resume/download_(1).png](Resume/download_(1).png)
+![Resume/download_(1).png](/assets/img/sample/character.png)
 
     ---
 
@@ -54,7 +53,7 @@ Its a **living** digital space where I've gathered my work, ideas, hobbies, go
 
     [Landbot](https://app.landbot.io/gui/bot/356319/builder)
 
-    [https://landbot.io/u/H-358537-YLGP484FPTAY1S9E/index.html](https://landbot.io/u/H-358537-YLGP484FPTAY1S9E/index.html)
+    ![https://landbot.io/u/H-358537-YLGP484FPTAY1S9E/index.html](https://landbot.io/u/H-358537-YLGP484FPTAY1S9E/index.html)
 
     ---
 
@@ -64,7 +63,7 @@ Its a **living** digital space where I've gathered my work, ideas, hobbies, go
 
 - 🧠 기술
 
-    [https://stackshare.io/JHM9191/my-stack](https://stackshare.io/JHM9191/my-stack)
+    ![https://stackshare.io/JHM9191/my-stack](https://stackshare.io/JHM9191/my-stack)
 
     ---
 
