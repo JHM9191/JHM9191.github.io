@@ -1,0 +1,26 @@
+I"�<p>Jekyll 설치 및 환경설정 방법 :</p>
+
+<p><a href="https://jekyllrb.com/docs/installation/macos/">Jekyll on macOS</a></p>
+
+<p><a href="http://jekyllrb-ko.github.io/docs/installation/">설치</a></p>
+
+<h3 id="pip-설치-명령어">pip 설치 명령어</h3>
+
+<p><code class="highlighter-rouge">python -m ensurepip --default-pip</code></p>
+
+<p><code class="highlighter-rouge">sudo python -m ensurepip --default-pip</code></p>
+
+<h3 id="pip-설치되어-있는지-확인">pip 설치되어 있는지 확인</h3>
+
+<p><code class="highlighter-rouge">pip --version</code></p>
+
+<h3 id="ruamelyaml-설치-명령어">ruamel.yaml 설치 명령어</h3>
+
+<p><code class="highlighter-rouge">pip install ruamel.yaml</code></p>
+
+<p><code class="highlighter-rouge">sudo pip install ruamel.yaml</code></p>
+
+<p>###python  설치</p>
+
+<p><code class="highlighter-rouge">brew install python3 &amp;&amp; cp /usr/local/bin/python3 /usr/local/bin/python</code></p>
+:ET
