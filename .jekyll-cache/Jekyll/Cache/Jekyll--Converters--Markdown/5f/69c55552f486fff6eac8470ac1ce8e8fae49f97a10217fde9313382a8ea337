@@ -1,0 +1,37 @@
+I"�<h1 id="학력사항">학력사항</h1>
+
+<p><br /><br /></p>
+
+<h1 id="경력사항">경력사항</h1>
+
+<p><br /><br /></p>
+
+<h1 id="기술스택">기술스택</h1>
+
+<p><br /><br /></p>
+
+<h1 id="자격증">자격증</h1>
+
+<p><br /><br /></p>
+
+<h1 id="교육활동">교육활동</h1>
+
+<p><br /><br /></p>
+
+<h1 id="프로젝트">프로젝트</h1>
+
+<p><br /><br /></p>
+
+<h1 id="논문">논문</h1>
+
+<script samesite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+
+<div id="myLandbot" style="width: 100%; height: 500px;"></div>
+<script>
+var myLandbot = new LandbotFrameWidget({
+container: '#myLandbot',
+index: 'https://landbot.io/u/H-358537-YLGP484FPTAY1S9E/index.html',
+});
+</script>
+
+:ET
